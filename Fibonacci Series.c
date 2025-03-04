@@ -9,7 +9,7 @@ else if(n==2 || n==3)
 else
  return fun(n-1)+fun(n-1);
 
-}
+}//By Kartikey Bhardwaj 
 
 int main (){
     
